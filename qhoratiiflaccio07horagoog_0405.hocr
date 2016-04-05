@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio07horagoog_0405.png"; bbox 0 0 2709 4884; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 178 1711 2296 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 178 1711 2296 1842">
+     <span class='ocr_line' id='line_1_1' title="bbox 178 1711 2296 1842; baseline 0.007 -14"><span class='ocrx_word' id='word_1_1' title='bbox 178 1713 877 1838; x_wconf 76' lang='lat' dir='ltr'>INDEX</span> <span class='ocrx_word' id='word_1_2' title='bbox 1010 1711 2296 1842; x_wconf 77' lang='lat' dir='ltr'><strong>VERBoRIJM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 214 4509 1944 4576">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 214 4509 1944 4576">
+     <span class='ocr_line' id='line_1_2' title="bbox 214 4509 1944 4576; baseline 0.001 -7"><span class='ocrx_word' id='word_1_3' title='bbox 214 4527 386 4576; x_wconf 71' lang='lat' dir='ltr'>mut</span> <span class='ocrx_word' id='word_1_4' title='bbox 426 4528 658 4576; x_wconf 68' lang='lat' dir='ltr'><strong>nonu.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1318 4559 1333 4574; x_wconf 71' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1888 4509 1944 4570; x_wconf 81' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
